@@ -1,0 +1,17 @@
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\bin\Debug\BudgetMaster.exe.config
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\bin\Debug\BudgetMaster.exe
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\bin\Debug\BudgetMaster.pdb
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.csprojResolveAssemblyReference.cache
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\MainWindow.g.cs
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\App.g.cs
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster_MarkupCompile.cache
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster_MarkupCompile.lref
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\MainWindow.baml
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.g.resources
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.Properties.Resources.resources
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.csproj.GenerateResource.Cache
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.exe
+X:\Workspace\ProgrammingIdeasApp\BudgetMaster\BudgetMaster\obj\Debug\BudgetMaster.pdb
+X:\Workspace\ProgrammingIdeasApp\TextEditor\BudgetMaster\bin\Debug\BudgetMaster.exe.config
+X:\Workspace\ProgrammingIdeasApp\TextEditor\BudgetMaster\obj\Debug\BudgetMaster.exe
+X:\Workspace\ProgrammingIdeasApp\TextEditor\BudgetMaster\obj\Debug\BudgetMaster.pdb
